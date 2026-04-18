@@ -1,1 +1,25 @@
+{
+  "name": "Romeo Token List",
+  "logoURI": "https://images.pump.fun/coin-image/CHwssnZnBZ47sXE88GvTSBXKoF7ZfERRkcnUM7B3pump?variant=600x600",
+  "tags": {
+    "charity": { "name": "Charity", "description": "Charity and animal support tokens" },
+    "memorial": { "name": "Memorial", "description": "Tokens created in memory of loved ones" }
+  },
+  "tokens": [
+    {
+      "chainId": 101,
+      "address": "CHwssnZnBZ47sXE88GvTSBXKoF7ZfERRkcnUM7B3pump",
+      "symbol": "RMBR",
+      "name": "Romeo Token",
+      "decimals": 6,
+      "logoURI": "https://images.pump.fun/coin-image/CHwssnZnBZ47sXE88GvTSBXKoF7ZfERRkcnUM7B3pump?variant=600x600",
+      "tags": ["charity", "memorial"],
+      "extensions": {
+        "website": "https://romeotoken.dcms.site/",
+        "twitter": "https://x.com/d1343030"
+      },
+      "description": "Romeo Token is a transparent memorial & charity project supporting animals in need."
+    }
+  ]
+}
 
