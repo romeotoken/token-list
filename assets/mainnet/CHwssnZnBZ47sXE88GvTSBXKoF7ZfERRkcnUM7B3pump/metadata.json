@@ -1,0 +1,14 @@
+{
+  "address": "CHwssnZnBZ47sXE88GvTSBXKoF7ZfERRkcnUM7B3pump",
+  "chainId": 101,
+  "symbol": "RMBR",
+  "name": "Romeo Token",
+  "decimals": 6,
+  "logoURI": "https://images.pump.fun/coin-image/CHwssnZnBZ47sXE88GvTSBXKoF7ZfERRkcnUM7B3pump?variant=600x600&ipfs=bafybeigh6hg7tsq2y7xnnqbdowrauu5qhfuzincxchnqbgvv3hnjqzrjw4&src=https%3A%2F%2Fipfs.io%2Fipfs%2Fbafybeigh6hg7tsq2y7xnnqbdowrauu5qhfuzincxchnqbgvv3hnjqzrjw4",
+  "extensions": {
+    "website": "https://romeotoken.dcms.site/",
+    "twitter": "https://x.com/d1343030"
+  },
+  "tags": ["charity", "memorial", "community"],
+  "description": "A gesture of love that continues. Born from memory, built with kindness, shared with transparency. Romeo Token is a memorial and charity project dedicated to beloved pets. It honors their memory, supports animals in need, and maintains full transparency through a public on-chain wallet. No mint, no blacklist, no hidden fees — only sincerity, clarity, and compassion."
+}
