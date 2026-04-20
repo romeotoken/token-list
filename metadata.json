@@ -1,0 +1,17 @@
+{
+  "name": "Romeo",
+  "symbol": "RMBR",
+  "description": "Romeo is a transparent memorial & charity project supporting animals in need.",
+  "image": "https://cdn.cmsfly.com/69da1822d3cc8c0012993944/images/LOGOPERFETTO-3Ernf.png",
+  "seller_fee_basis_points": 0,
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://cdn.cmsfly.com/69da1822d3cc8c0012993944/images/LOGOPERFETTO-3Ernf.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  }
+}
